@@ -1,0 +1,1 @@
+	fputs("Even Numbers from 10 to 50 are:\n",fp);

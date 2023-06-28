@@ -1,0 +1,3 @@
+Name= Sakar
+Address= Lokhanthali
+Telephone=6630453
